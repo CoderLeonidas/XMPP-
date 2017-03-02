@@ -2,8 +2,8 @@
 //  _5____Tests.m
 //  05.聊天室Tests
 //
-//  Created by apple on 14/12/5.
-//  Copyright (c) 2014年 heima. All rights reserved.
+//  Created by apple on 17/3/3.
+//  Copyright (c) 2017年 Leonidas. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
